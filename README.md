@@ -8,6 +8,7 @@ An interactive design mockup. All names and figures are sample data, and nothing
 - Turn modules on or off in the preview panel; "Home for this access" explains which rule produced each part of Home.
 - Attendance only: the bar shows Home, Attendance Record, Leaves and Profile, and Home has the app's attendance card (live clock and fingerprint button).
 - Attendance with other modules: the center button of the bar is the fingerprint for checking in, and an Attendance tab opens Attendance Records and Leaves in two tabs.
+- With many modules, the module button in the bar opens that module directly; tap it again to switch modules. In Profile, "Modules in the bar" lets each user choose which module(s) the bar shows (1 with Attendance, up to 2 without).
 - The Smart Attendance screen is only for recording: Check In, Surprise Attendance and Check Out.
 - Approvals open a review screen with Approve and Reject; there is no quick approve in lists.
 - The bell shows notifications only. "Waiting for you", "Continue where you left off" and the pin buttons on screens were removed.
