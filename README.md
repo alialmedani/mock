@@ -1,6 +1,16 @@
 # ERP App Mockup
 
-An interactive design mockup. All names and figures are sample data, and nothing is saved or sent to a server.
+An interactive design mockup. All names and figures are sample data, and nothing is sent to a server. Your settings and progress are saved only in your own browser; use **Reset the demo** on the Me screen to start fresh.
+
+## What's new
+- The design now matches the app's colors, fonts, cards, forms and report screens, in light and dark mode.
+- Hold an icon to rearrange it (home grid, pinned items, module screens and the Modules page), like on iPhone.
+- The Modules page is a 4-column icon grid. A badge shows items waiting in each module.
+- The check-in card disappears after you check in and returns the next day.
+- "Waiting for you" lists only approvals and tasks. Notifications such as "leave approved" are under the bell.
+- Removed "Continue where you left off" from Home and "Open now" from the module switcher.
+- The browser remembers your user type, language, theme, pins, order and check-in after a reload.
+- Added HR forms (shifts, swaps, schedules, leave balances), a POS rep picker, held sales and returns, and Kurdish text.
 
 ## View it
 Open `index.html` in a browser.
